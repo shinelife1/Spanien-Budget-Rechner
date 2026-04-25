@@ -34,3 +34,4 @@ Ein leistungsstarkes CLI-Tool (Command Line Interface) zur präzisen Planung der
 
 ---
 *Dieses Projekt entstand im Rahmen meiner Vorbereitung auf eine Auswanderung nach Spanien und zeigt meine Fortschritte in der Python-Entwicklung.*
+![Dashboard Screenshot](Showcase.png)

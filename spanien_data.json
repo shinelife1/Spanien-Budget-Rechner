@@ -1,9 +1,9 @@
 {
     "budget": {
-        "Miete": 0,
-        "Internet": 0,
-        "Essen": 0,
-        "Freizeit": 0
+        "Miete": 0.0,
+        "Internet": 0.0,
+        "Essen": 0.0,
+        "Freizeit": 0.0
     },
-    "gehalt": 0
+    "gehalt": 0.0
 }
